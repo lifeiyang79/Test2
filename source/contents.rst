@@ -10,6 +10,6 @@ Welcome to FeiYang's BLOG's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   how_to_become_a_good_man
+   information
 
 
