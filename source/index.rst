@@ -11,5 +11,6 @@ Welcome to FeiYang's BLOG's documentation!
    :caption: Contents:
 
    information
+   count_tool
 
 
