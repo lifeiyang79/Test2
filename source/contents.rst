@@ -12,3 +12,4 @@ Welcome to FeiYang's BLOG's documentation!
 
    information
    count_tool
+   nonlinear
