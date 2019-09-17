@@ -65,12 +65,10 @@ python自带的tkinter库可以初步满足UI的需求，因此做了个图形�
 
 运行结果：
 
-.. figure:: https://github.com/lifeiyang79/Test2/blob/master/files/pics/count_tool_pic_1.jpg
-   :alt: 父窗口
+.. figure:: https://github.com/lifeiyang79/Test2/blob/master/files/pics/count_tool_pic_1.jpg?raw=true
+   :alt: count_tool_pic_1.jpg
 
-   父窗口
-
-​
+   count_tool_pic_1.jpg
 
 整理下代码：
 
@@ -173,7 +171,7 @@ step3中在定义按钮时，会选择触发一个事件（或称为函数），
 
 运行结果为：
 
-.. figure:: https://github.com/lifeiyang79/Test2/blob/master/files/pics/count_tool_pic_2.jpg
-   :alt: 程序运行窗口
+.. figure:: https://github.com/lifeiyang79/Test2/blob/master/files/pics/count_tool_pic_2.jpg?raw=true
+   :alt: count_tool_pic_2.jpg
 
-   程序运行窗口
+   count_tool_pic_2.jpg
